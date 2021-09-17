@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "war"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "matt dam0n"
+name                     : "Your name"
 description              : "An amazing website."
 url                      : "https://mattdam0n.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "matt dam0n"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a warrior"
   location         : "Somewhere"
   email            :
   links:
